@@ -1,3 +1,4 @@
+#prompt-engineering
 https://openreview.net/forum?id=92gvk82DE-
 
 > [bugglebeetle](https://news.ycombinator.com/user?id=bugglebeetle) [38 minutes ago](https://news.ycombinator.com/item?id=35507089) | [next](https://news.ycombinator.com/item?id=35506472#35506900) [–]
