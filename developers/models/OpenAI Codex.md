@@ -1,0 +1,1 @@
+Proprietary, API as a service
