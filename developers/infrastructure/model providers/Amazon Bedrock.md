@@ -1,0 +1,1 @@
+Amazon Bedrock provides users with foundation models from AI21 Labs, Anthropic, Stability AI, and Amazon, accessible via an API.

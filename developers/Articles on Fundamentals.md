@@ -15,3 +15,6 @@ https://www.youtube.com/watch?v=ySEx_Bqxvvo
 
 
 
+#TBD #TODO 
+- BERT
+- GPT

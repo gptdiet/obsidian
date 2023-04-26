@@ -1,0 +1,1 @@
+https://azure.microsoft.com/en-us/products/cognitive-services/openai-service

@@ -1,1 +1,1 @@
-[google-research/text-to-text-transfer-transformer: Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer" (github.com)](https://github.com/google-research/text-to-text-transfer-transformer)
+[Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"](https://github.com/google-research/text-to-text-transfer-transformer)
